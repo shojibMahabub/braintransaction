@@ -1,4 +1,4 @@
-<h1>Brain Transaction
+<h1>Brain Transaction</h1>
 
  1. git pull https://github.com/shojibMahabub/braintransaction.git
  2. connect with database.
